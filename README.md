@@ -5,7 +5,7 @@
     <meta name="theme-color" content="#8d6e63"> 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ยินดีต้อนรับสู่ Snack&Candy Shop</title> <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600&family=Pridi:wght@300;400&display=swap" rel="stylesheet">
+    <title>ยินดีต้อนรับสู่ ชาววังเย็น คาเฟ่</title> <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600&family=Pridi:wght@300;400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         :root {
@@ -31,7 +31,7 @@
             align-items: center;
             text-align: center;
             padding: 20px;
-             background: linear-gradient(rgba(235, 50, 219, 0.5), rgba(34, 176, 219, 0.5)), url('file:///C:/Users/com124-1/Downloads/banner%20snack%20&%20candy.png') no-repeat center center fixed; /* <<< ใส่ URL รูปพื้นหลังร้าน */
+             background: linear-gradient(rgba(253, 250, 246, 0.8), rgba(253, 250, 246, 0.8)), url('https://placehold.co/1920x1080/a1887f/fdfaf6?text=Cafe+Background') no-repeat center center fixed; /* <<< ใส่ URL รูปพื้นหลังร้าน */
             background-size: cover;
         }
         .landing-content {
@@ -52,7 +52,7 @@
             margin-bottom: 15px;
         }
         p {
-            font-size: clamp(1rem, 3vw, 1.5rem);
+            font-size: clamp(1rem, 3vw, 1.2rem);
             color: var(--text-light-color, #795548);
             margin-bottom: 30px;
         }
@@ -78,7 +78,7 @@
 </head>
 
     <div class="landing-content">
-        <h1>Snack&Candy Shop</h1> <p>หนมน้าระวังโดนอัดตูดนะครับ</p>
+        <h1>ชาววังเย็น คาเฟ่</h1> <p>สัมผัสรสชาติกาแฟแท้และเบเกอรี่โฮมเมด</p>
         <a href="shop.html" class="btn"><i class="fas fa-store"></i> ดูเมนูและสั่งซื้อ</a>
     </div>
     <script>
