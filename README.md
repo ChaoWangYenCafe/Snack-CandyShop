@@ -1,4 +1,5 @@
 
+<html lang="th">
 <head>
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#8d6e63"> 
@@ -73,6 +74,8 @@
             transform: translateY(-2px);
         }
          .btn i { margin-right: 8px; }
+    </style>
+</head>
 
     <div class="landing-content">
         <h1>Snack&Candy Shop</h1> <p>หนมน้าระวังโดนอัดตูดนะครับ</p>
