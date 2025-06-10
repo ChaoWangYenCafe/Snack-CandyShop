@@ -78,7 +78,7 @@
 </head>
 
     <div class="landing-content">
-        <h1>ชาววังเย็น คาเฟ่</h1> <p>ซ้อไปแล้วระวังหนมน้าๆ😭😭</p>
+        <h1>Snack-CandyShop</h1> <p>ซ์้อไปแล้วระวังหนมน้าๆ😭😭</p>
         <a href="shop.html" class="btn"><i class="fas fa-store"></i> ดูเมนูและสั่งซื้อ</a>
     </div>
     <script>
