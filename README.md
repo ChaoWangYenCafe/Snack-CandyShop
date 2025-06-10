@@ -5,7 +5,7 @@
     <meta name="theme-color" content="#8d6e63"> 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ยินดีต้อนรับสู่ ชาววังเย็น คาเฟ่</title> <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600&family=Pridi:wght@300;400&display=swap" rel="stylesheet">
+    <title>ยินดีต้อนรับสู่ Snack-CandyShop</title> <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600&family=Pridi:wght@300;400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         :root {
@@ -78,7 +78,7 @@
 </head>
 
     <div class="landing-content">
-        <h1>ชาววังเย็น คาเฟ่</h1> <p>สัมผัสรสชาติกาแฟแท้และเบเกอรี่โฮมเมด</p>
+        <h1>ชาววังเย็น คาเฟ่</h1> <p>ซ้อไปแล้วระวังหนมน้าๆ😭😭</p>
         <a href="shop.html" class="btn"><i class="fas fa-store"></i> ดูเมนูและสั่งซื้อ</a>
     </div>
     <script>
